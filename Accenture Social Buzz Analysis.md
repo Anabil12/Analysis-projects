@@ -10,7 +10,7 @@
 ### Task 2 
 * 7 data sets - each data set contains different columns and values
 * A data model - this shows the relationships between all of the data sets, as well as any links that you can use to merge tables.
-  * 1.Requirements gathering
+  * 1. Requirements gathering
   *  2.Data cleaning
   * 3.Data modeling
 
